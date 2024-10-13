@@ -18,9 +18,6 @@ This project is an experimental implementation of a "phone mouse" that uses a sm
   - Python
   - Flask (Web framework)
   - Flask-SocketIO (Real-time communication)
-  - Flask-CORS (Cross-Origin Resource Sharing)
-  - PyAutoGUI (Programmatic mouse control)
-  - NumPy (Numerical operations)
 
 - **Frontend:**
   - HTML/JavaScript (Web interface)
